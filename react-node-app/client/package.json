@@ -18,6 +18,7 @@
     "eject": "react-scripts eject"
   },
   "proxy": "http://localhost:3001",
+  "homepage": "https://m4ttdev.github.io/schedline/",
   "eslintConfig": {
     "extends": [
       "react-app",
